@@ -60,6 +60,6 @@ Every commit is another little light in my constellation. ✧ Explore my [reposi
 
 ### ✧･ﾟ: *✧･ﾟ:* Thanks for visiting — see you among the stars! *:･ﾟ✧*:･ﾟ✧
 
-<img src="./arcade.svg" alt="Purple Kuromi inspired starry arcade animation" width="100%" />
+<img src="./cute-stars.svg" alt="Cute floating lavender star bunny animation" width="100%" />
 
 </div>
