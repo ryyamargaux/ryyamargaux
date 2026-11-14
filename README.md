@@ -2,7 +2,7 @@
 
 <img src="./arcade.svg" alt="Animated starry midnight arcade with a mischievous bunny mascot" width="100%" />
 
-# Hey, I'm Riyanna ✦
+# Hey, I'm Yanna ✦
 
 ### KUROMI-INSPIRED STAR ARCADE · Curious builder · lifelong learner
 
