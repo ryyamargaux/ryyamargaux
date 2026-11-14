@@ -1,64 +1,65 @@
 <div align="center">
 
-<img src="./arcade.svg" alt="Animated purple pixel arcade: Pixel Quest" width="100%" />
+<img src="./arcade.svg" alt="Animated starry midnight arcade with a mischievous bunny mascot" width="100%" />
 
-# Hey, I'm Riyanna 👋
+# Hey, I'm Riyanna ✦
 
-### ✦ Curious builder · lifelong learner · always leveling up ✦
+### KUROMI-INSPIRED STAR ARCADE · Curious builder · lifelong learner
 
 [![GitHub](https://img.shields.io/badge/GitHub-ryyamargaux-8b5cf6?style=flat-square&logo=github&logoColor=white)](https://github.com/ryyamargaux)
-[![Player](https://img.shields.io/badge/PLAYER%2002-ARCADE%20MODE-a78bfa?style=flat-square&logo=gamejolt&logoColor=white)](https://github.com/ryyamargaux)
+[![Player](https://img.shields.io/badge/PLAYER%2002-MIDNIGHT%20MODE-21152f?style=flat-square&labelColor=6d28d9)](https://github.com/ryyamargaux)
+[![Mood](https://img.shields.io/badge/MOOD-STARSTRUCK-c4b5fd?style=flat-square&labelColor=21152f)](https://github.com/ryyamargaux)
+
+*Cute chaos, curious ideas, and a sky full of stars.*
 
 </div>
 
 ---
 
-## 🪄 01 / PLAYER PROFILE · Character Select
+## ☾ 01 / PLAYER DOSSIER · Character Select
 
 | **SIGNAL** | **CURRENT MODE** |
 |:---|:---|
-| 🎮 **Build** | Turning ideas into little adventures |
-| ✨ **Learn** | Picking up new skills, one level at a time |
-| 🌙 **Explore** | Finding the fun in how things work |
-| 💜 **Style** | Thoughtful, curious, and a little bit magical |
+| ✦ **Build** | Turning curious ideas into little adventures |
+| ☾ **Learn** | Collecting new skills one level at a time |
+| ★ **Explore** | Finding the magic in how things work |
+| 🖤 **Style** | Playful details with a polished finish |
 
-## 🕹️ 02 / QUEST LOG · Choose Your Next Level
+## ★ 02 / QUEST LOG · Choose Your Next Level
 
-> **Main quest:** Keep learning, keep making, and turn curious ideas into things people can enjoy.
+> **Main quest:** Keep learning, keep making, and leave a little sparkle in every project.
 
-- **Level 01 — Imagine:** start with a small idea
-- **Level 02 — Create:** experiment, make, and learn as you go
-- **Level 03 — Polish:** make each detail feel intentional
-- **Level 04 — Repeat:** every project unlocks a new skill
+- **Level 01 — Dream:** imagine something new
+- **Level 02 — Make:** experiment, build, and learn
+- **Level 03 — Polish:** give every detail a little love
+- **Level 04 — Repeat:** collect another star and keep going
 
-## 🧰 03 / TOOLKIT · Power-Ups
+## 🎀 03 / POWER-UPS · My Growing Toolkit
 
-A growing collection of skills, experiments, and lessons from every project.
+![Curiosity](https://img.shields.io/badge/✦-Curiosity-c4b5fd?style=for-the-badge&labelColor=21152f) ![Creativity](https://img.shields.io/badge/✦-Creativity-a78bfa?style=for-the-badge&labelColor=21152f) ![Learning](https://img.shields.io/badge/✦-Always%20Learning-e9d5ff?style=for-the-badge&labelColor=21152f) ![Building](https://img.shields.io/badge/✦-Building-8b5cf6?style=for-the-badge&labelColor=21152f)
 
-![Curiosity](https://img.shields.io/badge/✦-Curiosity-8b5cf6?style=for-the-badge) ![Creativity](https://img.shields.io/badge/✦-Creativity-a78bfa?style=for-the-badge) ![Learning](https://img.shields.io/badge/✦-Always%20Learning-c4b5fd?style=for-the-badge) ![Building](https://img.shields.io/badge/✦-Building-6d28d9?style=for-the-badge)
+*A growing collection of experiments, new skills, and lessons from every build.*
 
-## 📡 04 / LIVE ARCADE · Activity Radar
+## 🌌 04 / STARFIELD · Activity Radar
+
+Every commit is another little light in the constellation. Check out my [repositories](https://github.com/ryyamargaux?tab=repositories) and the contribution stars below.
 
 <div align="center">
 
-[![Riyanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryyamargaux&show_icons=true&hide_border=true&bg_color=0d0818&title_color=c4b5fd&text_color=e9ddff&icon_color=a78bfa)](https://github.com/ryyamargaux)
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryyamargaux&layout=compact&hide_border=true&bg_color=0d0818&title_color=c4b5fd&text_color=e9ddff)](https://github.com/ryyamargaux)
+[![Explore my GitHub](https://img.shields.io/badge/✦%20EXPLORE%20MY%20PROJECTS-Visit%20the%20arcade-8b5cf6?style=for-the-badge&labelColor=21152f)](https://github.com/ryyamargaux?tab=repositories)
 
 </div>
 
-## 🌟 05 / PLAYER NOTES · Little Things I Believe
+## 💜 05 / PLAYER NOTES · A Few Things I Believe
 
 - The best way to learn is to make something.
 - Small progress still counts as progress.
-- A bit of imagination makes every build better.
+- A little imagination makes every build more fun.
 
 <div align="center">
 
-### Thanks for dropping by — see you in the next level ✨
+### Thanks for visiting — see you among the stars ✨
 
-[![Visit my GitHub](https://img.shields.io/badge/INSERT%20COIN-EXPLORE%20MY%20PROFILE-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryyamargaux)
-
-<img src="./arcade.svg" alt="Pixel Quest arcade" width="100%" />
+<img src="./arcade.svg" alt="Starry arcade banner" width="100%" />
 
 </div>
