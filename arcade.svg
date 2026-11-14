@@ -1,11 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="250" viewBox="0 0 920 250" role="img" aria-label="Animated midnight arcade with a mischievous bunny mascot, purple stars, and a crescent moon">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090610"/><stop offset=".55" stop-color="#1a102b"/><stop offset="1" stop-color="#24103b"/></linearGradient><linearGradient id="rim" x2="1" y2="1"><stop stop-color="#c084fc"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#e9d5ff"/></linearGradient><linearGradient id="hood" x2="0" y2="1"><stop stop-color="#25202f"/><stop offset="1" stop-color="#09070f"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<rect width="920" height="250" rx="22" fill="url(#bg)"/><rect x="8" y="8" width="904" height="234" rx="18" fill="none" stroke="url(#rim)" stroke-width="2"/>
-<g fill="#e9d5ff" font-family="monospace"><text x="36" y="42" font-size="13" letter-spacing="2">RIYANNA'S NIGHT ARCADE</text><text x="36" y="65" font-size="10" fill="#b89add" letter-spacing="1">STAR QUEST · PLAYER 02</text><text x="760" y="43" font-size="10" fill="#d8b4fe">★ SCORE 042020</text></g>
-<g fill="#e9d5ff" filter="url(#glow)"><path d="M120 103l4 10 10 4-10 4-4 10-4-10-10-4 10-4z"><animate attributeName="opacity" values=".35;1;.35" dur="2s" repeatCount="indefinite"/></path><path d="M266 76l3 7 7 3-7 3-3 7-3-7-7-3 7-3z"><animate attributeName="opacity" values="1;.35;1" dur="1.6s" repeatCount="indefinite"/></path><path d="M690 94l4 9 9 4-9 4-4 9-4-9-9-4 9-4z"><animate attributeName="opacity" values=".3;1;.3" dur="2.3s" repeatCount="indefinite"/></path><path d="M832 119l3 7 7 3-7 3-3 7-3-7-7-3 7-3z"><animate attributeName="opacity" values="1;.4;1" dur="1.8s" repeatCount="indefinite"/></path><circle cx="202" cy="119" r="2"/><circle cx="752" cy="79" r="2"/><circle cx="622" cy="60" r="2"/><circle cx="340" cy="99" r="2"/></g>
-<path d="M797 81a25 25 0 1 0 25 36A20 20 0 1 1 797 81" fill="#d8b4fe" filter="url(#glow)"/>
-<path d="M32 190H888" stroke="#8b5cf6" stroke-width="2" opacity=".8"/><path d="M32 196H888" stroke="#4c1d95" stroke-width="3"/>
-<g fill="#c4b5fd"><circle cx="110" cy="178" r="4"/><circle cx="210" cy="178" r="4"/><circle cx="310" cy="178" r="4"/><circle cx="410" cy="178" r="4"/><circle cx="510" cy="178" r="4"/><circle cx="610" cy="178" r="4"/><circle cx="710" cy="178" r="4"/><circle cx="810" cy="178" r="4"/></g>
-<g><animateTransform attributeName="transform" type="translate" values="0 0;28 0;0 0" dur="7s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="translate" values="0 0;0 -6;0 0" dur="1.5s" repeatCount="indefinite"/><g transform="translate(430 105)"><path d="M14 38Q4 14 10-18Q12-27 19-20L34 2Q45-3 57 2L72-20Q79-27 81-18Q87 14 77 38Q91 57 85 76Q79 97 46 98Q13 97 7 76Q1 57 14 38Z" fill="url(#hood)" stroke="#a78bfa" stroke-width="2"/><path d="M19 49Q46 38 73 49Q76 78 46 83Q16 78 19 49Z" fill="#f5efff"/><ellipse cx="34" cy="62" rx="3" ry="5" fill="#7c3aed"/><ellipse cx="58" cy="62" rx="3" ry="5" fill="#7c3aed"/><path d="M41 70q5 5 10 0" fill="none" stroke="#31213f" stroke-width="2"/><path d="M46 45l3 6 7 1-5 5 1 7-6-3-6 3 1-7-5-5 7-1z" fill="#c084fc"/></g></g>
-<text x="36" y="224" fill="#c4b5fd" font-family="monospace" font-size="10" letter-spacing="1">✦ BUILD · LEARN · COLLECT STARS ✦</text><text x="770" y="224" fill="#a78bfa" font-family="monospace" font-size="10">[ PRESS START ]</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="250" viewBox="0 0 920 250" role="img" aria-label="Animated three-dimensional Kuromi inspired bunny in a violet star arcade">
+<defs>
+<linearGradient id="space" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080510"/><stop offset=".52" stop-color="#170d2a"/><stop offset="1" stop-color="#321457"/></linearGradient>
+<linearGradient id="frame" x2="1" y2="1"><stop stop-color="#f0abfc"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
+<radialGradient id="planet"><stop stop-color="#b794f6"/><stop offset=".65" stop-color="#683bb4"/><stop offset="1" stop-color="#25103f"/></radialGradient>
+<linearGradient id="hood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#514269"/><stop offset=".24" stop-color="#242033"/><stop offset=".7" stop-color="#100c19"/><stop offset="1" stop-color="#34214e"/></linearGradient>
+<linearGradient id="ear" x2="1" y2="1"><stop stop-color="#b99aff"/><stop offset=".38" stop-color="#392852"/><stop offset="1" stop-color="#100b18"/></linearGradient>
+<linearGradient id="shine" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".72"/><stop offset="1" stop-color="#d8b4fe" stop-opacity="0"/></linearGradient>
+<filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="shadow" x="-60%" y="-60%" width="220%" height="250%"><feGaussianBlur stdDeviation="7"/></filter>
+<linearGradient id="trail"><stop stop-color="#f5d0fe" stop-opacity="0"/><stop offset="1" stop-color="#d8b4fe"/></linearGradient>
+</defs>
+<rect width="920" height="250" rx="22" fill="url(#space)"/><rect x="8" y="8" width="904" height="234" rx="18" fill="none" stroke="url(#frame)" stroke-width="2"/>
+<g fill="#f3e8ff" font-family="monospace"><text x="36" y="40" font-size="13" letter-spacing="2">RIYANNA'S MIDNIGHT ARCADE</text><text x="36" y="62" font-size="10" fill="#c4a3ee" letter-spacing="1">KUROMI MODE · PLAYER 02</text><text x="768" y="40" font-size="10" fill="#e9d5ff">★ STAR SCORE 042020</text></g>
+<!-- deep-space parallax -->
+<g fill="#eadbff" opacity=".8"><circle cx="75" cy="99" r="1.4"/><circle cx="190" cy="83" r="1.2"/><circle cx="300" cy="119" r="1.5"/><circle cx="360" cy="70" r="1"/><circle cx="573" cy="75" r="1.3"/><circle cx="662" cy="122" r="1.5"/><circle cx="875" cy="91" r="1.3"/><circle cx="736" cy="158" r="1"/></g>
+<g fill="#eedcff" filter="url(#glow)">
+<path d="M126 103l4 10 10 4-10 4-4 10-4-10-10-4 10-4z"><animate attributeName="opacity" values=".25;1;.3" dur="2s" repeatCount="indefinite"/></path>
+<path d="M273 75l3 7 7 3-7 3-3 7-3-7-7-3 7-3z"><animate attributeName="opacity" values="1;.3;1" dur="1.7s" repeatCount="indefinite"/></path>
+<path d="M689 89l5 11 11 5-11 5-5 11-5-11-11-5 11-5z"><animate attributeName="opacity" values=".4;1;.35" dur="2.1s" repeatCount="indefinite"/></path>
+<path d="M841 126l3 7 7 3-7 3-3 7-3-7-7-3 7-3z"><animate attributeName="opacity" values="1;.35;1" dur="1.8s" repeatCount="indefinite"/></path></g>
+<!-- shooting star -->
+<g opacity="0"><path d="M0 0h72" stroke="url(#trail)" stroke-width="3" stroke-linecap="round"/><path d="M74 -1l4 4-4 4-4-4z" fill="#fff" filter="url(#glow)"/><animateTransform attributeName="transform" type="translate" values="-80 80;1000 148" dur="5.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" keyTimes="0;.08;.28" dur="5.8s" repeatCount="indefinite"/></g>
+<!-- floating moon and ringed planet -->
+<path d="M796 67a22 22 0 1 0 23 34A19 19 0 1 1 796 67" fill="#e9d5ff" filter="url(#glow)"><animateTransform attributeName="transform" type="rotate" values="-12 800 84;12 800 84;-12 800 84" dur="8s" repeatCount="indefinite"/></path>
+<g transform="translate(716 133)"><ellipse rx="31" ry="9" fill="none" stroke="#d8b4fe" stroke-width="3" opacity=".85"><animateTransform attributeName="transform" type="rotate" values="-18;18;-18" dur="7s" repeatCount="indefinite"/></ellipse><circle r="17" fill="url(#planet)" stroke="#c4b5fd" stroke-width="1.5"/><ellipse rx="31" ry="9" fill="none" stroke="#f0abfc" stroke-width="1" opacity=".55"><animateTransform attributeName="transform" type="rotate" values="-18;18;-18" dur="7s" repeatCount="indefinite"/></ellipse><animateTransform attributeName="transform" type="translate" values="716 133;716 128;716 133" dur="4s" repeatCount="indefinite"/></g>
+<!-- neon arcade floor and floating platform -->
+<path d="M32 191H888" stroke="#a855f7" stroke-width="2" opacity=".8"/><path d="M32 197H888" stroke="#4c1d95" stroke-width="3"/>
+<ellipse cx="460" cy="183" rx="83" ry="12" fill="#a855f7" opacity=".27" filter="url(#shadow)"/><ellipse cx="460" cy="180" rx="74" ry="9" fill="#160d27" stroke="#bb8cff" stroke-width="2"/><ellipse cx="460" cy="177" rx="57" ry="4" fill="none" stroke="#f0abfc" stroke-width="1" opacity=".8"/>
+<!-- dimensional mascot: independent ear sway, body bob, rim light, cast shadow -->
+<ellipse cx="460" cy="177" rx="42" ry="5" fill="#05030b" opacity=".8" filter="url(#shadow)"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.2s" repeatCount="indefinite"/>
+<g transform="translate(460 112)">
+<!-- left ear -->
+<g transform="rotate(-7 -22 -39)"><path d="M-27-31Q-45-51-41-91Q-39-103-31-94L-10-54L-9-34Z" fill="url(#ear)" stroke="#b89aff" stroke-width="2"/><path d="M-30-56Q-37-72-35-87L-17-52Z" fill="#bd8df8" opacity=".45"/><path d="M-39-86Q-40-101-32-94" fill="none" stroke="#fff" stroke-opacity=".65" stroke-width="2" stroke-linecap="round"/><animateTransform attributeName="transform" type="rotate" values="-8 -22 -39;3 -22 -39;-8 -22 -39" dur="3s" repeatCount="indefinite"/></g>
+<!-- right ear -->
+<g transform="rotate(8 19 -39)"><path d="M9-34L13-55L35-94Q43-102 45-90Q49-51 28-31Z" fill="url(#ear)" stroke="#c4a3ff" stroke-width="2"/><path d="M18-52L40-87Q42-71 34-56L27-45Z" fill="#d7b4ff" opacity=".42"/><path d="M38-91Q43-99 44-87" fill="none" stroke="#fff" stroke-opacity=".65" stroke-width="2" stroke-linecap="round"/><animateTransform attributeName="transform" type="rotate" values="8 19 -39;-3 19 -39;8 19 -39" dur="3.4s" repeatCount="indefinite"/></g>
+<!-- back hood, bevel, and silhouette -->
+<path d="M-43-38Q-57-61-45-81Q-38-89-28-77L-12-58Q0-64 12-58L31-78Q41-88 47-78Q59-57 44-36Q57-17 51 5Q45 31 0 34Q-45 31-51 5Q-57-17-43-38Z" fill="#07050d" opacity=".9" transform="translate(3 4)"/>
+<path d="M-43-38Q-57-61-45-81Q-38-89-28-77L-12-58Q0-64 12-58L31-78Q41-88 47-78Q59-57 44-36Q57-17 51 5Q45 31 0 34Q-45 31-51 5Q-57-17-43-38Z" fill="url(#hood)" stroke="#c4a3ff" stroke-width="2.2"/>
+<path d="M-40-50Q-36-76-29-76L-15-58M26-60L40-77Q50-57 39-41" fill="none" stroke="url(#shine)" stroke-width="5" stroke-linecap="round" opacity=".7"/>
+<!-- white face, cheeks, eyes -->
+<path d="M-32-20Q0-33 32-20Q38 17 0 23Q-38 17-32-20Z" fill="#fcf8ff" stroke="#e6d8ff" stroke-width="1.2"/>
+<ellipse cx="-13" cy="-2" rx="3.5" ry="5.5" fill="#6326ae"><animate attributeName="ry" values="5.5;5.5;.5;5.5" keyTimes="0;.94;.97;1" dur="4s" repeatCount="indefinite"/></ellipse><ellipse cx="13" cy="-2" rx="3.5" ry="5.5" fill="#6326ae"><animate attributeName="ry" values="5.5;5.5;.5;5.5" keyTimes="0;.94;.97;1" dur="4s" repeatCount="indefinite"/></ellipse>
+<path d="M-22 8q-7-4-11 1m55-1q-6-5-11-1" stroke="#e9a6df" stroke-width="2" stroke-linecap="round" opacity=".8"/><path d="M-3 6q3-3 6 0l-3 3z" fill="#d17ab8"/><path d="M-5 12q5 5 10 0" fill="none" stroke="#39243d" stroke-width="1.7" stroke-linecap="round"/>
+<!-- bow -->
+<path d="M-8-29Q-27-45-27-29Q-27-17-8-24L0-27Q20-14 23-28Q25-42 1-30Z" fill="#9333ea" stroke="#e9d5ff" stroke-width="1.5"/><circle r="4" fill="#f0abfc" stroke="#fff" stroke-width="1"/><path d="M-20-31Q-16-38-10-30M12-31Q19-39 21-30" fill="none" stroke="#fff" stroke-opacity=".55" stroke-width="1.4"/>
+<!-- little 3d star charm -->
+<g transform="translate(38 13)"><path d="M0-10L3-3 11 0 3 3 0 11-3 3-11 0-3-3Z" fill="#f0abfc" stroke="#fff" stroke-width="1"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="6s" repeatCount="indefinite"/></path></g>
+<path d="M-22 29Q0 37 22 29" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2"/>
+</g></g>
+<!-- orbiting 3d prism stars -->
+<g fill="#f5d0fe" filter="url(#glow)"><g transform="translate(375 104)"><path d="M0-11L3-3 11 0 3 3 0 11-3 3-11 0-3-3Z" fill="#e9d5ff"/><animateTransform attributeName="transform" type="translate" values="375 104;375 97;375 104" dur="2.8s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0 0 0;180 0 0;360 0 0" dur="5s" repeatCount="indefinite"/></g><g transform="translate(536 122)"><path d="M0-9L3-3 9 0 3 3 0 9-3 3-9 0-3-3Z" fill="#d8b4fe"/><animateTransform attributeName="transform" type="translate" values="536 122;536 115;536 122" dur="3.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" additive="sum" type="rotate" values="0;360" dur="7s" repeatCount="indefinite"/></g></g>
+<!-- constellation dots and footer -->
+<g fill="#d8b4fe"><circle cx="110" cy="178" r="3"/><circle cx="210" cy="178" r="3"/><circle cx="310" cy="178" r="3"/><circle cx="610" cy="178" r="3"/><circle cx="710" cy="178" r="3"/><circle cx="810" cy="178" r="3"/></g><text x="36" y="224" fill="#e9d5ff" font-family="monospace" font-size="10" letter-spacing="1">✦ BUILD · LEARN · COLLECT STARS ✦</text><text x="770" y="224" fill="#c4a3ff" font-family="monospace" font-size="10">[ PRESS START ]</text>
 </svg>
